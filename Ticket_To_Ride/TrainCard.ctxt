@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrainCard
+comment0.text=\r\n\ Represents\ a\ Train\ Card\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=color\ img
+comment1.target=TrainCard(TrainCardsColor,\ java.awt.Image)
+comment1.text=\r\n\ Creates\ a\ train\ card\ object\r\n\ \r\n\ @param\ The\ color\ of\ the\ card\r\n\ @param\ The\ image\ of\ the\ card\r\n
+comment2.params=
+comment2.target=TrainCardsColor\ getTrainCardColor()
+comment2.text=\r\n\ Gets\ the\ color\ of\ the\ train\ card\r\n\ \r\n\ @return\ The\ color\ of\ the\ card\r\n
+comment3.params=
+comment3.target=java.awt.Image\ getImage()
+comment3.text=\r\n\ Gets\ the\ image\ being\ used\r\n\ \r\n\ @return\ The\ image\r\n
+numComments=4

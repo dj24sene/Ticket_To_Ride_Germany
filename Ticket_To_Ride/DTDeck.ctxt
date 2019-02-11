@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DTDeck
+comment0.text=\r\n\ Represents\ a\ Destination\ Ticket\ Deck\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=
+comment1.target=DTDeck()
+comment1.text=\r\n\ Constructs\ a\ DTDeck\ Object\r\n
+comment2.params=
+comment2.target=DestinationTicket\ drawShortTicket()
+comment2.text=\r\n\ The\ method\ for\ drawing\ a\ short\ ticket\r\n\ \r\n\ @return\ the\ removed\ Destination\ ticket\r\n
+comment3.params=
+comment3.target=DestinationTicket\ drawLongTicket()
+comment3.text=\r\n\ The\ method\ for\ drawing\ a\ long\ ticket\r\n\ \r\n\ @return\ the\ removed\ long\ destination\ ticket\r\n
+comment4.params=ticket
+comment4.target=boolean\ isIssued(DestinationTicket)
+comment4.text=\r\n\ Determines\ if\ the\ ticket\ has\ been\ issued\r\n\ \r\n\ @param\ The\ ticket\ to\ find\r\n\ @return\ True\ if\ the\ ticket\ has\ been\ issued,\ false\ otherwise\r\n
+comment5.params=vertex1\ vertex2
+comment5.target=java.lang.String\ processImage(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Gets\ the\ name\ of\ the\ destination\ ticket\r\n\ \r\n\ @param\ The\ name\ of\ the\ first\ vertex\ of\ the\ route\r\n\ @param\ The\ name\ of\ the\ second\ vertex\ of\ the\ route\r\n\ @return\ \ the\ string\ of\ the\ image\r\n
+comment6.params=ticket
+comment6.target=boolean\ returnTic(DestinationTicket)
+comment6.text=\r\n\ Returns\ the\ ticket\ to\ the\ remaining\ deck\ from\ the\ issued\ deck\r\n\ \r\n\ @param\ The\ ticket\ to\ be\ returned\ to\ the\ deck\r\n\ @return\ True\ if\ the\ ticket\ is\ returned\r\n
+comment7.params=
+comment7.target=java.util.ArrayList\ shuffle()
+comment7.text=\r\n\ Shuffles\ the\ deck\ of\ remaining\ cards\r\n\ \r\n\ @return\ The\ new\ array\ of\ shuffled\ cards\r\n
+numComments=8

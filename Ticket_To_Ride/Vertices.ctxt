@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vertices
+comment0.text=\r\n\ All\ the\ possible\ destinations\ on\ the\ map\ with\ their\ \r\n\ associating\ number\ of\ meeples\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=meeple
+comment1.target=Vertices(int)
+comment1.text=\r\n\ Constructs\ the\ vertex\ with\ the\ meeples\r\n\ \r\n\ @param\ meeple\ number\ of\ meeples.\r\n\ \r\n
+comment2.params=
+comment2.target=int\ getNumMeeples()
+comment2.text=\r\n\ returns\ the\ number\ of\ meeples\r\n\ \r\n\ @return\ \ number\ of\ meeples.\r\n\ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getMeeples()
+comment3.text=\r\n\ returns\ An\ arrayList\ of\ meeples.\ \r\n\ \r\n\ @return\ An\ arrayList\ of\ meeples.\ \r\n\ \r\n
+comment4.params=color
+comment4.target=boolean\ removeMeeple(MeeplesColor)
+comment4.text=\r\n\ Returns\ if\ the\ arraylist\ contains\ a\ meeple\ and\ removes\ it.\ \r\n\ \r\n\ @param\ color\ the\ color\ that\ is\ going\ to\ be\ removed\ from\ the\ list.\r\n\ \r\n\ @return\ A\ boolean\ of\ if\ the\ meeple\ was\ removed\ from\ list\ \r\n\ or\ did\ not\ contain\ it.\r\n
+comment5.params=
+comment5.target=void\ printMeeples()
+comment5.text=\r\n\ A\ method\ that\ prints\ out\ all\ the\ meeples\ in\ an\ arrayList.\ \r\n\ \r\n\r\n
+numComments=6

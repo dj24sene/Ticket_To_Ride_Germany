@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ManageMeeples
+comment0.text=\r\n\ Helps\ manage\ the\ meeples\ located\ at\ different\ cities\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=
+comment1.target=ManageMeeples()
+comment1.text=\r\n\ Creates\ a\ ManageMeeples\ object\r\n
+comment2.params=v
+comment2.target=java.util.ArrayList\ createArray(Vertices)
+comment2.text=\r\n\ Creates\ an\ array\ of\ meeples\ drawn\ from\ the\ bag\r\n\ \r\n\ @param\ The\ vertex\ to\ create\ the\ array\ of\ meeples\ from\r\n\ @return\ the\ created\ arrray\ of\ Meeples\r\n
+comment3.params=
+comment3.target=MeeplesColor\ drawMeeple()
+comment3.text=\r\nDraws\ meeples\ from\ the\ meeple\ bag\r\n\r\n@return\ the\ removed\ meeple\r\n
+comment4.params=v\ color
+comment4.target=boolean\ remove(Vertices,\ MeeplesColor)
+comment4.text=\r\n\ If\ the\ array\ at\ a\ vertex\ contains\ a\ meeple\ of\ the\ color\ \r\n\ selected\ then\ it\ is\ removed.\r\n\ \r\n\ @param\ V\ is\ the\ vertice\ to\ remove\ the\ meeple\ from\r\n\ @param\ the\ color\ of\ the\ meeple\ to\ be\ removed\r\n\ @return\ True\ if\ the\ meeple\ is\ removed\ and\ false\ otherwise\r\n
+comment5.params=v
+comment5.target=java.util.ArrayList\ getArray(Vertices)
+comment5.text=\r\n\ Gets\ the\ array\ of\ meeples\ on\ a\ given\ vertex\r\n\ \r\n\ @param\ V\ the\ vertex\ the\ get\ the\ array\ from\r\n\ @return\ An\ array\ list\ of\ the\ meeples\r\n
+numComments=6

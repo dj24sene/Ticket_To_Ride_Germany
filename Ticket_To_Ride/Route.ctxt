@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Route
+comment0.text=\r\n\ Represents\ a\ Route\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=dest1\ dest2\ trains\ color
+comment1.target=Route(Vertices,\ Vertices,\ int,\ TrainCardsColor)
+comment1.text=\r\n\ Constructs\ an\ object\ that\ keeps\ track\ of\ the\ first\ vertex,\ second\ vertex\r\n\ number\ of\ trains,\ and\ the\ color\ of\ traincards.\r\n\ \r\n\ @param\ dest1\ the\ first\ vertex.\r\n\ @param\ dest2\ the\ second\ vertex.\r\n\ @param\ trains,\ the\ number\ of\ trains\ for\ route.\r\n\ @param\ color\ the\ color\ of\ trains\ for\ the\ route.\r\n
+comment2.params=
+comment2.target=int\ getRoutePoints()
+comment2.text=\r\n\ Returns\ how\ many\ points\ this\ route\ is\ worth\ if\ claimed\r\n\ \r\n\ @return\ how\ many\ points\ the\ route\ is\ worth\ if\ claimed.\r\n
+comment3.params=
+comment3.target=Vertices\ getVertex1()
+comment3.text=\r\n\ Returns\ the\ first\ vertex\r\n\ \r\n\ @return\ the\ first\ Vertex\r\n
+comment4.params=
+comment4.target=Vertices\ getVertex2()
+comment4.text=\r\n\ Returns\ the\ second\ vertex\r\n\ \r\n\ @return\ the\ second\ Vertex\r\n\ \r\n
+comment5.params=
+comment5.target=int\ getNumTrains()
+comment5.text=\r\n\ Returns\ number\ of\ trains\r\n\ \r\n\ @return\ the\ number\ of\ trains\r\n\ \r\n
+comment6.params=
+comment6.target=TrainCardsColor\ getColor()
+comment6.text=\r\n\ Returns\ color\ of\ train\ card.\r\n\ \r\n\ @return\ the\ color\ of\ the\ train\ card.\r\n\ \r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Returns\ A\ string\ the\ color\ of\ the\ train\ card\ \r\n\ and\ the\ amount\ player\ has\r\n\ \r\n\ @return\ A\ string\ the\ color\ of\ the\ train\ card\ \r\n\ and\ the\ amount\ player\ has\ \r\n\ \r\n
+numComments=8

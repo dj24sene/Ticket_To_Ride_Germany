@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MeeplesBag
+comment0.text=\r\n\ A\ collection\ of\ meeples\ to\ be\ dispersed\ across\ the\ map\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=
+comment1.target=MeeplesBag()
+comment1.text=\r\n\ Constructs\ a\ MeeplesBag\ Object\r\n
+comment2.params=
+comment2.target=MeeplesColor\ drawMeeple()
+comment2.text=\r\n\ Draws\ a\ meeple\ from\ the\ MeeplesBag\r\n\ \r\n\ @return\ the\ color\ of\ the\ meeple\ that\ has\ been\ removed.\r\n
+numComments=3

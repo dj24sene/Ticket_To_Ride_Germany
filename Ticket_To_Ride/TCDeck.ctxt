@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TCDeck
+comment0.text=\r\n\ Represents\ a\ Ticket\ Card\ Deck\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=
+comment1.target=TCDeck()
+comment2.params=
+comment2.target=TrainCard\ drawCard()
+comment2.text=\r\n\ Draws\ a\ train\ card.\r\n\ \r\n\ @return\ The\ card\ that\ was\ drawn.\r\n
+comment3.params=
+comment3.target=void\ isLegal()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ number\ of\ locomotives\ on\ the\ table\r\n\ are\ less\ than\ 3.\r\n\ \r\n\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ shuffle()
+comment4.text=\r\n\ Shuffles\ the\ deck\r\n\ \r\n\ @return\ An\ arraylist\ of\ shuffled\ cards.\r\n
+numComments=5

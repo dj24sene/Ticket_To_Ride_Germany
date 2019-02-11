@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Graph
+comment0.text=\r\n\ Represents\ the\ Ticket\ to\ Ride\ Graph\r\n\r\n\ @author\ Abdul\ Samad,\ Brianna\ Davis,\ Zach\ Giannuzzi,\ \r\n\ Dan\ Senecal,\ Eric\ Sauer\r\n\ @version\ 4/30/2018\r\n
+comment1.params=
+comment1.target=Graph()
+comment1.text=\r\n\ Constucts\ a\ graph\ object\r\n
+comment2.params=r
+comment2.target=void\ addRoute(Route)
+comment2.text=\r\n\ If\ the\ route\ does\ not\ exist\ already\ it\ is\ added\r\n\ \r\n\ @param\ r\ The\ route\ to\ be\ added\r\n
+comment3.params=r
+comment3.target=void\ removeRoute(Route)
+comment3.text=\r\n\ Removes\ the\ the\ specified\ route\r\n\ \r\n\ @param\ The\ route\ to\ be\ removed\r\n
+comment4.params=city1\ city2
+comment4.target=java.util.ArrayList\ getRoutes(Vertices,\ Vertices)
+comment4.text=\r\n\ Gets\ the\ routes\ between\ two\ cities\r\n\ \r\n\ @param\ The\ starting\ city\r\n\ @param\ The\ ending\ city\r\n\ @return\ an\ arraylist\ of\ the\ routes\ between\ the\ cities\r\n
+comment5.params=r
+comment5.target=boolean\ contains(Route)
+comment5.text=\r\n\ Checks\ if\ the\ route\ is\ contained.\r\n\ \r\n\ @param\ the\ route\ to\ check\ for\r\n\ @return\ true\ if\ the\ route\ is\ contained,\ false\ otherwise\r\n
+comment6.params=v\ v2
+comment6.target=int[]\ getCoords(Vertices,\ Vertices)
+comment6.text=\r\n\ Gets\ the\ coordinates\ of\ two\ vertices\r\n\ \r\n\ @param\ The\ coordinates\ of\ the\ first\ city\r\n\ @param\ The\ coordinates\ of\ the\ second\ city\r\n\ @return\ an\ int\ array\ of\ the\ coordinates\r\n
+comment7.params=
+comment7.target=void\ createGraph()
+comment7.text=\r\n\ Creates\ the\ graph\ of\ all\ of\ the\ vertices\ and\ their\ card\r\n
+numComments=8
